@@ -1,4 +1,4 @@
-# home-battery-widget
+# Home battery widget for iOS 16
 
 An iOS 16 lockscreen widget to display home batteries with [Scriptable](https://scriptable.app/).
 
