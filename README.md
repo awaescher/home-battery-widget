@@ -2,6 +2,8 @@
 
 An iOS 16 lockscreen widget to display home batteries with [Scriptable](https://scriptable.app/).
 
+Special thanks to [Normal-Tangerine8609](https://github.com/Normal-Tangerine8609) for his awesome [progress-circle](https://gist.github.com/Normal-Tangerine8609/0c7101942b3886bafdc08c357b8d3f18) gist.
+
 ## How does it work (for me)?
 This implementation is powered by a home battery MyReserve Matrix from Solarwatt that is connected to a local kiwigrid installation.
 
